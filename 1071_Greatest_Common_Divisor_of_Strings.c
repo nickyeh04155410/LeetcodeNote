@@ -10,6 +10,9 @@
 */
 
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 // 輾轉相除法計算最大公因數
 int gcd(int a, int b) {
